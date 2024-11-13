@@ -1,0 +1,48 @@
+/* Style de base */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f9f9f9;
+    margin: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #2C3E50;
+    color: white;
+}
+
+h1 {
+    margin-top: 0;
+}
+
+.contact-info p {
+    margin: 5px 0;
+}
+
+section {
+    margin: 20px;
+}
+
+h2 {
+    color: #34495E;
+    border-bottom: 2px solid #3498DB;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #2C3E50;
+    color: white;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
